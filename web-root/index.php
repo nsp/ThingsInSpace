@@ -53,6 +53,7 @@ header('Content-Type: text/html; charset=utf-8');
           <li data-group="Iridium33DebrisGroup">Iridium 33 Collision Debris</li>
           <li data-group="WestfordNeedlesGroup">Westford Needles</li>
           <li data-group="SpaceXGroup">SpaceX</li>
+          <li data-group="PlanetDovesGroup">Planet Doves</li>
         </ul>
       </div>
      <!-- <div id="menu-color-schemes" class="menu-item">
